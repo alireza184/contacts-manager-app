@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "fullname": "alireza mohammadkhani",
+      "photo": "https://toplearn.com/img/user/teachers/ec29ab4a-1eff-5b2f-5529-39ef84dd1324_67fa6553-0e36-4951-9525-e5f3b92a56bd.png",
+      "mobile": 9919383853,
+      "email": "alirezamk10@gmail.com",
+      "job": "Developer",
+      "group": "1",
+      "id": 8
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "همکار"
+    },
+    {
+      "id": "2",
+      "name": "دوست"
+    },
+    {
+      "id": "3",
+      "name": "فامیل"
+    },
+    {
+      "id": "4",
+      "name": "سرویس"
+    },
+    {
+      "id": "5",
+      "name": "آشنا"
+    }
+  ]
+}
